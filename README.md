@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pedro
 
-[![GitHub pedroeuzebio](https://img.shields.io/github/followers/pedroop23?label=follow&style=social)](https://github.com/brunopetrolini)
+[![GitHub pedroeuzebio](https://img.shields.io/github/followers/pedroeuzebio?label=follow&style=social)](https://github.com/pedroeuzebio)
 
 - Computer Science student at UFOP (Universidade Federal de Ouro Preto)
 
